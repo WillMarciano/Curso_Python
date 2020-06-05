@@ -1,0 +1,1 @@
+print("Hello aqui no Python usando PyCharm")
