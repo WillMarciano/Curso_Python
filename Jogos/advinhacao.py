@@ -7,7 +7,7 @@ total_de_tentativas = 3
 rodada = 1
 
 while (rodada <= total_de_tentativas):
-    print("Tentativa ", rodada , " do total de ", total_de_tentativas)
+    print("Tentativa {} de {}".format(rodada,total_de_tentativas))
     chute = int(input("Digite o seu numero: "))
     print("você digitou ", chute)
 
