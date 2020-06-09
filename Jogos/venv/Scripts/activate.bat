@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=E:\Alura\Python\Projetos\Jogos\venv
+set VIRTUAL_ENV=Y:\Alura\Python\Projetos\Jogos\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
